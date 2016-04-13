@@ -1,0 +1,28 @@
+name: BluSkills
+favicon: null
+layout_spectrum: 0.7505169410724193
+typography_spectrum: 0.7195334772113711
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.29988684062846005
+  lightness: 0.052060338435694575
+  saturation: 0.5030696070753038
+  rhythmicContrast: 0.3126322466414422
+purpose: []

@@ -1,6 +1,6 @@
 name: BluSkills
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.24952
 typography_spectrum: 0.74855
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#231b10'
-    - '#fe2521'
-    - '#ff9758'
-    - '#806f68'
-  brandStrength: 0.1875
-  lightness: 0.5
+    - '#1f1f21'
+    - '#c0ced7'
+    - '#99a5b1'
+    - '#6a6d7e'
+  brandStrength: 0
+  lightness: 0.75
   saturation: 0.5
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []

@@ -1,6 +1,6 @@
 name: BluSkills
 favicon: null
-layout_spectrum: 0.24952
+layout_spectrum: 0
 typography_spectrum: 0.74855
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#6a6d7e'
   brandStrength: 0
   lightness: 0.75
-  saturation: 0.5
+  saturation: 0.625
   rhythmicContrast: 0.5
 purpose: []

@@ -1,0 +1,33 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: SHOULD the WORST happen
+datePublished: '2016-04-14T20:22:57.233Z'
+dateModified: '2016-04-14T20:22:37.242Z'
+title: ''
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-04-14-should-the-worst-happen.md
+published: true
+url: should-the-worst-happen/index.html
+_type: Article
+
+---
+SHOULD the WORST happen
+
+Trained - Our operators have undergone medical training. This ranges from first person on the scene to more advanced levels of life support and patient care
+
+We Will Support You - All our operators carry first aid equipment, allowing us to support you until we reach medical care or until we hand over to the emergency services
+
+> In a recent emergency situation the operator had already documented the nearest hospital so i was in A&E within minutes
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa94c9c7-217d-481e-bfe8-da9b50d3cd24.jpg)

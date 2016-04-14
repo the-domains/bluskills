@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Trained - Our operators have undergone medical training. This ranges from first person on the scene to more advanced levels of life support and patient care
-datePublished: '2016-04-14T20:41:29.935Z'
-dateModified: '2016-04-14T20:41:05.242Z'
-title: ''
+datePublished: '2016-04-14T20:44:00.404Z'
+dateModified: '2016-04-14T20:43:49.815Z'
+title: Should the worst happen
 author: []
 sourcePath: _posts/2016-04-14-should-the-worst-happen.md
 published: true
@@ -26,7 +26,7 @@ _type: Article
 
 > In a recent emergency situation the operator had already documented the nearest hospital so i was in A&E within minutes
 
-Should the worst happen
+# Should the worst happen
 
 Trained - Our operators have undergone medical training. This ranges from first person on the scene to more advanced levels of life support and patient care
 

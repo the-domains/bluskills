@@ -4,8 +4,15 @@
         <description><![CDATA[BluSkills]]></description>
         <link>https://thegrid.ai/bluskills/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 20:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 20:36:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bluskills/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Security & Security Chauffeur Services]]></title>
+            <description><![CDATA[<h1>Security & Security Chauffeur Services</h1>]]></description>
+            <link>https://thegrid.ai/bluskills/7b943f53-c49e-4f5f-8d36-f05c0901fa06/index.html</link>
+            <guid isPermaLink="false">7b943f53-c49e-4f5f-8d36-f05c0901fa06</guid>
+            <pubDate>Fri, 15 Apr 2016 20:36:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SECURITY CHAUFFEUR SERVICE]]></title>
             <description><![CDATA[<article><h1>SECURITY CHAUFFEUR SERVICE</h1><p>BluSkills specialise in
@@ -28,13 +35,6 @@ individuals and organisations on a full time basis and reduced commitment. We op
             <link>https://thegrid.ai/bluskills/contact-us/index.html</link>
             <guid isPermaLink="false">cc2a9239-b0fa-41ed-995e-20d1cc29677d</guid>
             <pubDate>Fri, 15 Apr 2016 20:35:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Security & Security Chauffeur Services]]></title>
-            <description><![CDATA[<h1>Security & Security Chauffeur Services</h1>]]></description>
-            <link>https://thegrid.ai/bluskills/7b943f53-c49e-4f5f-8d36-f05c0901fa06/index.html</link>
-            <guid isPermaLink="false">7b943f53-c49e-4f5f-8d36-f05c0901fa06</guid>
-            <pubDate>Fri, 15 Apr 2016 20:04:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

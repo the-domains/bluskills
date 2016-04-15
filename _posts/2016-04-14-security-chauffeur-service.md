@@ -9,8 +9,8 @@ description: |-
   BluSkills specialise in
   the provision of security chauffeur services to
   individuals and organisations on a full time basis and reduced commitment. We operate your vehicles and provide you with an exceptional, low profile, security aware service. We can supply vehicles on request.
-datePublished: '2016-04-15T15:12:38.874Z'
-dateModified: '2016-04-15T15:12:22.623Z'
+datePublished: '2016-04-15T15:38:26.244Z'
+dateModified: '2016-04-15T15:36:39.730Z'
 title: SECURITY CHAUFFEUR SERVICE
 author: []
 sourcePath: _posts/2016-04-14-security-chauffeur-service.md

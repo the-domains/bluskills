@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Trained - Our operators have undergone medical training. This ranges from first person on the scene to more advanced levels of life support and patient care
-datePublished: '2016-04-14T20:54:35.302Z'
-dateModified: '2016-04-14T20:47:20.743Z'
+datePublished: '2016-04-15T15:08:56.823Z'
+dateModified: '2016-04-15T10:50:25.738Z'
 title: Should the worst happen
 author: []
 sourcePath: _posts/2016-04-14-should-the-worst-happen.md

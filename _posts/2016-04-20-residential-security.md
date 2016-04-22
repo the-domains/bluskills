@@ -3,27 +3,27 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'BluSkills deliver residential and commercial security risk assessments and guidance. '
-datePublished: '2016-04-20T16:28:31.716Z'
-dateModified: '2016-04-20T16:28:17.760Z'
+description: BluSkills deliver residential and commercial security risk assessments and guidance.
+datePublished: '2016-04-22T21:59:50.836Z'
+dateModified: '2016-04-22T21:26:34.430Z'
 title: RESIDENTIAL SECURITY
 author: []
+sourcePath: _posts/2016-04-20-residential-security.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-residential-security.md
-published: true
+starred: false
 url: residential-security/index.html
 _type: Article
 
 ---
 # RESIDENTIAL SECURITY
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbcb9396-4d4e-4f97-ae43-497283102706.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1509498c6213a44b5cd95b53e3bf45be29985e43.jpg)
 
 BluSkills deliver residential and commercial security risk assessments and guidance.
 

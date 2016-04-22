@@ -4,7 +4,7 @@
         <description><![CDATA[BluSkills Security & Security Chauffeur]]></description>
         <link>https://thegrid.ai/bluskills/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 21:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 21:18:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bluskills/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SECURITY CHAUFFEUR SERVICE]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bluskills/security-chauffeur-service/index.html</link>
             <guid isPermaLink="false">4a91a1f8-a6b3-4611-ba72-6bbf180f7fda</guid>
             <pubDate>Wed, 20 Apr 2016 16:30:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CONTACT US]]></title>
+            <description><![CDATA[<article><h1>CONTACT US</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d1f58f1322bb45a870af911bf05fa99bd396558.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bluskills/contact-us/index.html</link>
+            <guid isPermaLink="false">cc2a9239-b0fa-41ed-995e-20d1cc29677d</guid>
+            <pubDate>Fri, 22 Apr 2016 21:18:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BluSkills Operators]]></title>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/bluskills/should-the-worst-happen/index.html</link>
             <guid isPermaLink="false">4b2623cc-4036-4348-8160-18e623bfcb10</guid>
             <pubDate>Fri, 15 Apr 2016 20:35:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CONTACT US]]></title>
-            <description><![CDATA[<article><h1>CONTACT US</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d1f58f1322bb45a870af911bf05fa99bd396558.jpg"></article>]]></description>
-            <link>https://thegrid.ai/bluskills/contact-us/index.html</link>
-            <guid isPermaLink="false">cc2a9239-b0fa-41ed-995e-20d1cc29677d</guid>
-            <pubDate>Fri, 15 Apr 2016 20:35:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

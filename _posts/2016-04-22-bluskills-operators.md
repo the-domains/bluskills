@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: BluSkills operators are both highly trained and experienced. They have employed their skills in UK towns and cities for executives through to high threat environments overseas protecting high risk individuals.
-datePublished: '2016-04-22T22:00:04.257Z'
-dateModified: '2016-04-22T21:02:54.200Z'
+datePublished: '2016-04-30T20:20:44.886Z'
+dateModified: '2016-04-30T20:18:31.316Z'
 title: BluSkills Operators
 author: []
 sourcePath: _posts/2016-04-22-bluskills-operators.md

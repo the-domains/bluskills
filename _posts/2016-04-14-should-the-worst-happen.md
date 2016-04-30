@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Trained - Our operators have undergone medical training. This ranges from first person on the scene to more advanced levels of life support and patient care
-datePublished: '2016-04-22T22:00:14.639Z'
-dateModified: '2016-04-22T22:00:14.229Z'
+datePublished: '2016-04-30T20:18:58.697Z'
+dateModified: '2016-04-22T23:18:25.694Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-should-the-worst-happen.md

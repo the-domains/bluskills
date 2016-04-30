@@ -6,12 +6,14 @@ isBasedOnUrl: 'http://eepurl.com/_deXn'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-30T20:15:27.419Z'
-dateModified: '2016-04-30T20:15:11.834Z'
+datePublished: '2016-04-30T20:16:57.172Z'
+dateModified: '2016-04-30T20:15:36.608Z'
 title: 'Sign up here!'
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-30-sign-up-here.md
+published: true
 authors: []
 publisher:
   name: null
@@ -19,8 +21,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-30-sign-up-here.md
-published: true
 _type: MediaObject
 
 ---

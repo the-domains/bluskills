@@ -4,7 +4,7 @@
         <description><![CDATA[BluSkills Security & Security Chauffeur]]></description>
         <link>https://thegrid.ai/bluskills/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 20:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 09:08:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bluskills/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SECURITY CHAUFFEUR SERVICE]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bluskills/security-chauffeur-service/index.html</link>
             <guid isPermaLink="false">4a91a1f8-a6b3-4611-ba72-6bbf180f7fda</guid>
             <pubDate>Sat, 30 Apr 2016 08:37:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adf5bd691149f5348a902f8959d72dbebfdc62d9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bluskills/7b943f53-c49e-4f5f-8d36-f05c0901fa06/index.html</link>
+            <guid isPermaLink="false">7b943f53-c49e-4f5f-8d36-f05c0901fa06</guid>
+            <pubDate>Sun, 01 May 2016 09:08:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BluSkills Operators]]></title>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/bluskills/contact-us/index.html</link>
             <guid isPermaLink="false">cc2a9239-b0fa-41ed-995e-20d1cc29677d</guid>
             <pubDate>Fri, 22 Apr 2016 21:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Security & Security Chauffeur Services]]></title>
-            <description><![CDATA[<h1>Security & Security Chauffeur Services</h1>]]></description>
-            <link>https://thegrid.ai/bluskills/7b943f53-c49e-4f5f-8d36-f05c0901fa06/index.html</link>
-            <guid isPermaLink="false">7b943f53-c49e-4f5f-8d36-f05c0901fa06</guid>
-            <pubDate>Fri, 15 Apr 2016 20:36:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

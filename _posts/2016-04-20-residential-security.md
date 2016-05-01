@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: BluSkills deliver residential and commercial security risk assessments and guidance.
-datePublished: '2016-04-22T21:59:50.836Z'
-dateModified: '2016-04-22T21:26:34.430Z'
+datePublished: '2016-05-01T09:41:15.663Z'
+dateModified: '2016-05-01T09:40:14.779Z'
 title: RESIDENTIAL SECURITY
 author: []
 sourcePath: _posts/2016-04-20-residential-security.md
@@ -27,4 +27,4 @@ _type: Article
 
 BluSkills deliver residential and commercial security risk assessments and guidance.
 
-We assess your current security situation, identifying potential threats and vulnerabilities to your family, staff, property and assets. We then produce detailed reports and offer guidance focussed on procedural measures which can be backed up by technical security measures to improve your security.
+We assess your current security situation, identifying potential threats and vulnerabilities to your family, staff, property and assets. We then produce detailed reports and offer guidance focussed on procedural measures which can be backed up by technical security measures to improve your security based on how you want to live or work.

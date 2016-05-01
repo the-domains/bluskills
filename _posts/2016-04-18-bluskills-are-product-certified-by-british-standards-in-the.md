@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: BluSkills are product certified by British Standards in the Provision of Close Protection services. The bsi stamp lets you know that we are committed to the highest standards and that we operate to best practice
-datePublished: '2016-05-01T09:58:35.843Z'
-dateModified: '2016-05-01T09:55:56.553Z'
-title: ''
+datePublished: '2016-05-01T10:03:29.636Z'
+dateModified: '2016-05-01T10:03:14.180Z'
+title: Close Protection Services
 author:
   - name: ''
     url: ''
@@ -24,6 +24,7 @@ url: bluskills-are-product-certified-by-british-standards-in-the/index.html
 _type: Article
 
 ---
+# Close Protection Services
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7f2e03a-7ded-4b57-8af2-c7fc100fef3b.jpg)
 
 BluSkills are product certified by British Standards in the Provision of Close Protection services. The bsi stamp lets you know that we are committed to the highest standards and that we operate to best practice

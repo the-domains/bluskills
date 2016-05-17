@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Solutions tailored to your exacting requirements. We manage the risk allowing you to carry out your activities in a safe environment, with total peace of mind through our highly experienced and professional operatives. '
-datePublished: '2016-05-17T21:05:55.230Z'
-dateModified: '2016-05-17T21:05:44.016Z'
+datePublished: '2016-05-17T21:16:03.523Z'
+dateModified: '2016-05-17T21:13:06.405Z'
 title: Close Protection Services
 author:
   - name: ''

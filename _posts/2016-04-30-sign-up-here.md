@@ -6,12 +6,12 @@ isBasedOnUrl: 'http://eepurl.com/_deXn'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-17T20:32:55.829Z'
-dateModified: '2016-05-17T20:21:48.528Z'
-title: ''
+datePublished: '2016-05-17T20:43:59.981Z'
+dateModified: '2016-05-17T20:33:03.866Z'
+title: ' '
 author:
   - name: ''
-    url: ''
+    url: 'http://eepurl.com/_deXn'
 sourcePath: _posts/2016-04-30-sign-up-here.md
 authors: []
 publisher:

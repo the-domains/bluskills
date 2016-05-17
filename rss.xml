@@ -4,7 +4,7 @@
         <description><![CDATA[BluSkills Security & Security Chauffeur]]></description>
         <link>https://thegrid.ai/bluskills/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 21:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 21:02:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bluskills/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BluSkills your 360° security solution]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bluskills/7b943f53-c49e-4f5f-8d36-f05c0901fa06/index.html</link>
             <guid isPermaLink="false">7b943f53-c49e-4f5f-8d36-f05c0901fa06</guid>
             <pubDate>Tue, 17 May 2016 20:44:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact Us]]></title>
+            <description><![CDATA[<article><h1>Contact Us</h1><h2>+ 44 01765 451207 </h2><p>6A Harrogate Road, Ripon, North Yorkshire, HG4 1SR</p></article>]]></description>
+            <link>https://thegrid.ai/bluskills/contact-us/index.html</link>
+            <guid isPermaLink="false">cc2a9239-b0fa-41ed-995e-20d1cc29677d</guid>
+            <pubDate>Tue, 17 May 2016 21:02:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Subscribe to the BluSkills newsletter]]></title>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/bluskills/residential-security/index.html</link>
             <guid isPermaLink="false">bbc9a4fd-85c6-4d0a-930a-f3702ca0ef77</guid>
             <pubDate>Tue, 17 May 2016 20:42:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact Us]]></title>
-            <description><![CDATA[<article><h1>Contact Us</h1><h2>+ 44 01765 451207 </h2><p>6A Harrogate Road, Ripon, North Yorkshire, HG4 1SR</p></article>]]></description>
-            <link>https://thegrid.ai/bluskills/contact-us/index.html</link>
-            <guid isPermaLink="false">cc2a9239-b0fa-41ed-995e-20d1cc29677d</guid>
-            <pubDate>Tue, 17 May 2016 20:42:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

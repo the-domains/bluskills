@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: BluSkills deliver residential and commercial security risk assessments and guidance.
-datePublished: '2016-05-17T20:42:24.964Z'
-dateModified: '2016-05-17T20:37:52.229Z'
+datePublished: '2016-05-17T21:12:41.224Z'
+dateModified: '2016-05-17T21:04:34.293Z'
 title: Residential Security
 author: []
 sourcePath: _posts/2016-04-20-residential-security.md

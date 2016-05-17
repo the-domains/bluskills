@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Trained - Our operators have undergone medical training. This ranges from first person on the scene to more advanced levels of life support and patient care
-datePublished: '2016-04-30T20:18:58.697Z'
-dateModified: '2016-04-22T23:18:25.694Z'
+datePublished: '2016-05-17T20:43:08.068Z'
+dateModified: '2016-05-17T20:38:32.206Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-14-should-the-worst-happen.md
-published: true
 authors: []
 publisher:
   name: null
@@ -26,8 +27,8 @@ _type: Article
 
 # Should the worst happen
 
-> In a recent emergency situation the operator had already documented the nearest hospital so I was in A&E within minutes
+> In a recent emergency situation the operator had already documented the nearest hospital so I was in A&E within minutes"
 
 Trained - Our operators have undergone medical training. This ranges from first person on the scene to more advanced levels of life support and patient care
 
-We Will Support You - All our operators carry first aid equipment, allowing us to support you until we reach medical care or until we hand over to the emergency services
+Supporting You - All our operators carry first aid equipment, allowing us to support you until we reach medical care or until we hand over to the emergency services

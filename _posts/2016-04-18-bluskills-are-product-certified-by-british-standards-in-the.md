@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Solutions tailored to your exacting requirements. We manage the risk allowing you to carry out your activities in a safe environment, with total peace of mind through our highly experienced and professional operatives. '
-datePublished: '2016-05-17T20:42:34.659Z'
-dateModified: '2016-05-17T20:37:14.914Z'
+datePublished: '2016-05-17T21:05:55.230Z'
+dateModified: '2016-05-17T21:05:44.016Z'
 title: Close Protection Services
 author:
   - name: ''
@@ -28,4 +28,4 @@ _type: Article
 
 Solutions tailored to your exacting requirements. We manage the risk allowing you to carry out your activities in a safe environment, with total peace of mind through our highly experienced and professional operatives. 
 
-BluSkills are product certified by British Standards in the Provision of Close Protection services. The bsi stamp lets you know that we are committed to the highest standards and that we operate to best practice
+BluSkills are product certified by British Standards in the Provision of Close Protection services. The bsi stamp lets you know that we are committed to the highest standards and that we operate to best practice.

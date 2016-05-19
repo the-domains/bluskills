@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T17:05:23.074Z'
-dateModified: '2016-05-19T17:05:21.933Z'
+datePublished: '2016-05-19T17:12:40.212Z'
+dateModified: '2016-05-19T17:12:39.607Z'
 title: A day in the life - Security Chauffeur
 author: []
+sourcePath: _posts/2016-05-19-a-day-in-the-life-security-chauffeur.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-19-a-day-in-the-life-security-chauffeur.md
 url: a-day-in-the-life-security-chauffeur/index.html
 _type: Article
 
@@ -20,6 +20,8 @@ _type: Article
 # A day in the life - Security Chauffeur
 
 ****
+
+## 
 
 ## Friday
 
@@ -33,12 +35,7 @@ The day actually started 2 days ago with the planning phase. This phase is equal
 
 I have been up for around an hour and a half by now and am leaving my house to travel to the client's house.
 
-I
-have all the equipment we require for the task as well as the company's paperwork. We
-keep detailed records of the hours we are working, expenses, vehicle mileages
-and condition. The drive is approximately an hour, I ensure that I am not being
-followed away from my home. It is important not inadvertently to take home life
-to work and work life to home.
+I have all the equipment we require for the task as well as the company's paperwork. We keep detailed records of the hours we are working, expenses, vehicle mileages and condition. The drive is approximately an hour, I ensure that I am not being followed away from my home. It is important not inadvertently to take home life to work and work life to home.
 
 > detecting surveillance may be the first sign that a crime or action against the client or client's property will occur"
 

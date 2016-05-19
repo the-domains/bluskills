@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T17:12:40.212Z'
-dateModified: '2016-05-19T17:12:39.607Z'
+datePublished: '2016-05-19T17:14:58.873Z'
+dateModified: '2016-05-19T17:14:58.213Z'
 title: A day in the life - Security Chauffeur
 author: []
 sourcePath: _posts/2016-05-19-a-day-in-the-life-security-chauffeur.md

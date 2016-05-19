@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://eepurl.com/_deXn'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T17:02:15.479Z'
-dateModified: '2016-05-19T17:02:15.024Z'
+datePublished: '2016-05-19T18:21:21.630Z'
+dateModified: '2016-05-19T18:21:08.165Z'
 title: 'Sign up for updates here!'
 author:
   - name: ''

@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '6A Harrogate Road, Ripon, North Yorkshire, HG4 1SR'
-datePublished: '2016-05-19T18:06:38.502Z'
-dateModified: '2016-05-19T17:48:54.725Z'
+datePublished: '2016-05-19T18:19:23.380Z'
+dateModified: '2016-05-19T18:06:45.520Z'
 title: Contact Us
 author:
   - name: ''
@@ -19,9 +19,8 @@ url: contact-us/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/586c33bc-8d35-44c5-b62b-a957cad20b04.jpg)
-
 # Contact Us
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/586c33bc-8d35-44c5-b62b-a957cad20b04.jpg)
 
 ## + 44 01765 451207 
 

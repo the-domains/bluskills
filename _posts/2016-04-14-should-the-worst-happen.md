@@ -5,19 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Trained - Our operators have undergone medical training. This ranges from first person on the scene to more advanced levels of life support and patient care
-datePublished: '2016-05-17T21:04:04.795Z'
-dateModified: '2016-05-17T21:03:58.274Z'
+datePublished: '2016-05-19T17:30:26.398Z'
+dateModified: '2016-05-19T17:29:51.106Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-14-should-the-worst-happen.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: should-the-worst-happen/index.html
 _type: Article
@@ -31,4 +27,4 @@ _type: Article
 
 Trained - Our operators have undergone medical training. This ranges from first person on the scene to more advanced levels of life support and patient care
 
-Supporting You - All our operators carry first aid equipment, allowing us to support you until we reach medical care or until we hand over to the emergency services
+Supporting You - All our operators carry first aid equipment, allowing us to support you until we reach medical care or until we hand over to the emergency services.

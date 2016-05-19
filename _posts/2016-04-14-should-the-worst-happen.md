@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Trained - Our operators have undergone medical training. This ranges from first person on the scene to more advanced levels of life support and patient care
-datePublished: '2016-05-19T17:30:26.398Z'
-dateModified: '2016-05-19T17:29:51.106Z'
+datePublished: '2016-05-19T17:32:37.357Z'
+dateModified: '2016-05-19T17:30:29.330Z'
 title: ''
 author:
   - name: ''

@@ -4,7 +4,7 @@
         <description><![CDATA[BluSkills Security & Security Chauffeur]]></description>
         <link>https://thegrid.ai/bluskills/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 18:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 18:21:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bluskills/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BluSkills your 360° security solution]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bluskills/7b943f53-c49e-4f5f-8d36-f05c0901fa06/index.html</link>
             <guid isPermaLink="false">7b943f53-c49e-4f5f-8d36-f05c0901fa06</guid>
             <pubDate>Thu, 19 May 2016 17:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sign up for updates here!]]></title>
+            <description><![CDATA[<article><h1>Sign up for updates here!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d4088d09c947f696fbfee46b232bac2fe49821f.jpg"></article>]]></description>
+            <link>http://eepurl.com/_deXn</link>
+            <guid isPermaLink="false">e89df32c-0665-4268-92cd-a3d66d232c9d</guid>
+            <pubDate>Thu, 19 May 2016 18:21:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact Us]]></title>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/bluskills/bluskills-operators/index.html</link>
             <guid isPermaLink="false">3f05abea-9541-488c-b9e5-2b80bf9fbe50</guid>
             <pubDate>Thu, 19 May 2016 17:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sign up for updates here!]]></title>
-            <description><![CDATA[<article><h1>Sign up for updates here!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d4088d09c947f696fbfee46b232bac2fe49821f.jpg"></article>]]></description>
-            <link>http://eepurl.com/_deXn</link>
-            <guid isPermaLink="false">e89df32c-0665-4268-92cd-a3d66d232c9d</guid>
-            <pubDate>Thu, 19 May 2016 17:02:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

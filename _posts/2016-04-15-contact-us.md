@@ -5,19 +5,15 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '6A Harrogate Road, Ripon, North Yorkshire, HG4 1SR'
-datePublished: '2016-05-19T17:03:24.690Z'
-dateModified: '2016-05-17T21:11:52.359Z'
+datePublished: '2016-05-19T18:06:38.502Z'
+dateModified: '2016-05-19T17:48:54.725Z'
 title: Contact Us
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-15-contact-us.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: contact-us/index.html
 _type: Article
@@ -29,10 +25,8 @@ _type: Article
 
 ## + 44 01765 451207 
 
-## [admin@bluskills.co.uk][0]
+## admin@bluskills.co.uk
 
 6A Harrogate Road, Ripon, North Yorkshire, HG4 1SR
 
 BluSkills Limited - Company Number 8636243
-
-[0]: null

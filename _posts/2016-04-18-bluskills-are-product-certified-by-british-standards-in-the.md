@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Just because you have protection in place doesn’t mean you want everyone to know it. Our operatives are capable of providing much less visible options through covert methods. You will be just as safe without attracting all the unwanted attention. tailored to your exacting requirements. We manage the risk allowing you to carry out your activities in a safe environment, with total peace of mind through our highly experienced and professional operatives. '
-datePublished: '2016-05-19T18:08:11.894Z'
-dateModified: '2016-05-19T17:46:21.866Z'
+datePublished: '2016-05-19T19:58:42.650Z'
+dateModified: '2016-05-19T19:58:26.531Z'
 title: Close Protection Services
 author:
   - name: ''

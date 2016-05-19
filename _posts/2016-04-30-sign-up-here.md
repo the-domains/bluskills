@@ -6,19 +6,15 @@ isBasedOnUrl: 'http://eepurl.com/_deXn'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-17T21:01:59.215Z'
-dateModified: '2016-05-17T21:01:30.655Z'
-title: ''
+datePublished: '2016-05-19T17:02:15.479Z'
+dateModified: '2016-05-19T17:02:15.024Z'
+title: 'Sign up for updates here!'
 author:
   - name: ''
     url: 'http://eepurl.com/_deXn'
 sourcePath: _posts/2016-04-30-sign-up-here.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 _type: MediaObject
 

@@ -1,27 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T17:14:58.873Z'
-dateModified: '2016-05-19T17:14:58.213Z'
+datePublished: '2016-05-19T18:06:13.954Z'
+dateModified: '2016-05-19T18:06:13.129Z'
 title: A day in the life - Security Chauffeur
 author: []
 sourcePath: _posts/2016-05-19-a-day-in-the-life-security-chauffeur.md
 authors: []
 publisher: null
 starred: false
-url: a-day-in-the-life-security-chauffeur/index.html
-_type: Article
+_type: Blurb
 
 ---
 # A day in the life - Security Chauffeur
 
 ****
-
-## 
 
 ## Friday
 

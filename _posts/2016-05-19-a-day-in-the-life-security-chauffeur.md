@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T18:06:13.954Z'
-dateModified: '2016-05-19T18:06:13.129Z'
+datePublished: '2016-05-19T18:18:49.607Z'
+dateModified: '2016-05-19T18:18:49.023Z'
 title: A day in the life - Security Chauffeur
 author: []
 sourcePath: _posts/2016-05-19-a-day-in-the-life-security-chauffeur.md

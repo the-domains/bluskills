@@ -4,7 +4,7 @@
         <description><![CDATA[BluSkills Security & Security Chauffeur]]></description>
         <link>https://thegrid.ai/bluskills/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 19:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 19:50:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bluskills/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BluSkills your 360° security solution]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bluskills/7b943f53-c49e-4f5f-8d36-f05c0901fa06/index.html</link>
             <guid isPermaLink="false">7b943f53-c49e-4f5f-8d36-f05c0901fa06</guid>
             <pubDate>Thu, 19 May 2016 17:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BluSkills operators - Trained for emergencies]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce6a2bb9-f957-40b3-afa6-a87dadda0f2a.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/bluskills/should-the-worst-happen/index.html</link>
+            <guid isPermaLink="false">4b2623cc-4036-4348-8160-18e623bfcb10</guid>
+            <pubDate>Thu, 19 May 2016 19:50:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK executives to High Risk individuals overseas]]></title>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/bluskills/bluskills-are-product-certified-by-british-standards-in-the/index.html</link>
             <guid isPermaLink="false">7c009e99-8b67-4017-b93d-1657ebb12ad6</guid>
             <pubDate>Thu, 19 May 2016 18:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BluSkills operators - Trained for emergencies]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce6a2bb9-f957-40b3-afa6-a87dadda0f2a.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/bluskills/should-the-worst-happen/index.html</link>
-            <guid isPermaLink="false">4b2623cc-4036-4348-8160-18e623bfcb10</guid>
-            <pubDate>Thu, 19 May 2016 17:32:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

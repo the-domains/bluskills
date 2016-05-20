@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://eepurl.com/_deXn'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T18:21:21.630Z'
-dateModified: '2016-05-19T18:21:08.165Z'
-title: 'Sign up for updates here!'
+datePublished: '2016-05-20T09:00:50.552Z'
+dateModified: '2016-05-20T08:54:27.391Z'
+title: The BluSkills Newsletter
 author:
   - name: ''
     url: 'http://eepurl.com/_deXn'
@@ -21,4 +21,6 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0326322b-befe-4581-a139-9848a77f98db.jpg)
 
-# Sign up for updates here!
+# The BluSkills Newsletter
+
+Sign up here to receive updates from BluSkills, what we have been up to, what we think and exciting news. Just complete the simple form. Should you wish to leave just click the unsubscribe button at any time. Welcome on-board!!

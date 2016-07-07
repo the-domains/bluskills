@@ -4,9 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Trained - Our operators have undergone medical training. This ranges from first person on the scene to more advanced levels of life support and patient care
-datePublished: '2016-05-20T09:07:16.113Z'
-dateModified: '2016-05-20T09:07:11.639Z'
+description: >-
+  Trained - Our operators have undergone medical training. This ranges from
+  first person on the scene to more advanced levels of life support and patient
+  care
+datePublished: '2016-07-07T13:37:41.498Z'
+dateModified: '2016-07-07T13:17:52.488Z'
 title: ''
 author:
   - name: ''

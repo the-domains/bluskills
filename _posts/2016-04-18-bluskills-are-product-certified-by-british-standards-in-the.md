@@ -1,17 +1,24 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
-description: 'Just because you have protection in place doesn’t mean you want everyone to know it. Our operatives are capable of providing much less visible options through covert methods. You will be just as safe without attracting all the unwanted attention. tailored to your exacting requirements. We manage the risk allowing you to carry out your activities in a safe environment, with total peace of mind through our highly experienced and professional operatives. '
-datePublished: '2016-05-20T09:08:24.274Z'
-dateModified: '2016-05-20T08:49:17.760Z'
+description: >-
+  Just because you have protection in place doesn’t mean you want everyone to
+  know it. Our operatives are capable of providing much less visible options
+  through covert methods. You will be just as safe without attracting all the
+  unwanted attention. tailored to your exacting requirements. We manage the risk
+  allowing you to carry out your activities in a safe environment, with total
+  peace of mind through our highly experienced and professional operatives. 
+datePublished: '2016-07-07T13:38:41.424Z'
+dateModified: '2016-07-07T13:16:54.239Z'
 title: Close Protection Services
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-18-bluskills-are-product-certified-by-british-standards-in-the.md
+sourcePath: >-
+  _posts/2016-04-18-bluskills-are-product-certified-by-british-standards-in-the.md
 authors: []
 publisher: null
 starred: false

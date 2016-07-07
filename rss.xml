@@ -4,7 +4,7 @@
         <description><![CDATA[BluSkills Security & Security Chauffeur]]></description>
         <link>http://bluskills.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 13:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 13:30:53 GMT</lastBuildDate>
         <atom:link href="http://bluskills.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BluSkills your 360° security solution]]></title>
@@ -14,11 +14,18 @@
             <pubDate>Thu, 07 Jul 2016 12:52:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A day in the life - Security Chauffeur]]></title>
+            <description><![CDATA[<article><h1>A day in the life - Security Chauffeur</h1><h2>Friday</h2><p></p></article>]]></description>
+            <link>http://bluskills.co.uk/a-day-in-the-life-security-chauffeur/index.html</link>
+            <guid isPermaLink="false">563f1f6e-cdff-41c0-8583-77802ddd58f2</guid>
+            <pubDate>Thu, 07 Jul 2016 13:30:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Contact Us]]></title>
             <description><![CDATA[<article><h1>Contact Us</h1><h2>+ 44 01765 451207 </h2><p>6A Harrogate Road, Ripon, North Yorkshire, HG4 1SR</p></article>]]></description>
             <link>http://bluskills.co.uk/contact-us/index.html</link>
             <guid isPermaLink="false">cc2a9239-b0fa-41ed-995e-20d1cc29677d</guid>
-            <pubDate>Thu, 07 Jul 2016 13:18:22 GMT</pubDate>
+            <pubDate>Thu, 07 Jul 2016 13:19:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Security Chauffeur Service]]></title>
@@ -61,13 +68,6 @@
             <link>http://eepurl.com/_deXn</link>
             <guid isPermaLink="false">e89df32c-0665-4268-92cd-a3d66d232c9d</guid>
             <pubDate>Fri, 20 May 2016 09:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A day in the life - Security Chauffeur]]></title>
-            <description><![CDATA[<article><h1>A day in the life - Security Chauffeur</h1><h2>Friday</h2><p></p></article>]]></description>
-            <link>http://bluskills.co.uk/a-day-in-the-life-security-chauffeur/index.html</link>
-            <guid isPermaLink="false">563f1f6e-cdff-41c0-8583-77802ddd58f2</guid>
-            <pubDate>Fri, 20 May 2016 08:58:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

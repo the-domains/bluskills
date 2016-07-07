@@ -9,8 +9,8 @@ description: >-
   and organisations on a full time basis and reduced commitment. We operate your
   vehicles and provide you with an exceptional, low profile, security aware
   service. We can supply vehicles on request.
-datePublished: '2016-07-07T13:41:36.583Z'
-dateModified: '2016-07-07T13:41:36.052Z'
+datePublished: '2016-07-07T13:46:50.080Z'
+dateModified: '2016-07-07T13:45:06.233Z'
 title: Security Chauffeur Service
 author:
   - name: ''

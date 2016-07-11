@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://eepurl.com/_deXn'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-07T13:33:00.544Z'
-dateModified: '2016-07-07T13:15:10.315Z'
+datePublished: '2016-07-11T12:03:19.646Z'
+dateModified: '2016-07-11T12:03:14.147Z'
 title: The BluSkills Newsletter
 author:
   - name: ''

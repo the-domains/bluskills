@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-07T13:30:50.433Z'
-dateModified: '2016-07-07T13:17:22.048Z'
+datePublished: '2016-07-11T12:15:38.188Z'
+dateModified: '2016-07-11T12:15:20.379Z'
 title: A day in the life - Security Chauffeur
 author: []
 sourcePath: _posts/2016-05-19-a-day-in-the-life-security-chauffeur.md
@@ -36,6 +36,9 @@ I have been up for around an hour and a half by now and am leaving my house to t
 I have all the equipment we require for the task as well as the company's paperwork. We keep detailed records of the hours we are working, expenses, vehicle mileages and condition. The drive is approximately an hour, I ensure that I am not being followed away from my home. It is important not inadvertently to take home life to work and work life to home.
 
 > detecting surveillance may be the first sign that a crime or action against the client or client's property will occur"
+> 
+>   
+> 
 
 ****
 

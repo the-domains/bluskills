@@ -4,7 +4,7 @@
         <description><![CDATA[BluSkills Security & Security Chauffeur]]></description>
         <link>http://bluskills.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 12:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 12:15:43 GMT</lastBuildDate>
         <atom:link href="http://bluskills.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BluSkills your 360° security solution]]></title>
@@ -12,6 +12,13 @@
             <link>http://bluskills.co.uk/7b943f53-c49e-4f5f-8d36-f05c0901fa06/index.html</link>
             <guid isPermaLink="false">7b943f53-c49e-4f5f-8d36-f05c0901fa06</guid>
             <pubDate>Mon, 11 Jul 2016 11:52:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A day in the life - Security Chauffeur]]></title>
+            <description><![CDATA[<article><h1>A day in the life - Security Chauffeur</h1><h2>Friday</h2><p></p></article>]]></description>
+            <link>http://bluskills.co.uk/a-day-in-the-life-security-chauffeur/index.html</link>
+            <guid isPermaLink="false">563f1f6e-cdff-41c0-8583-77802ddd58f2</guid>
+            <pubDate>Mon, 11 Jul 2016 12:15:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact Us]]></title>
@@ -68,13 +75,6 @@
             <link>http://bluskills.co.uk/bluskills-operators/index.html</link>
             <guid isPermaLink="false">3f05abea-9541-488c-b9e5-2b80bf9fbe50</guid>
             <pubDate>Thu, 07 Jul 2016 13:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A day in the life - Security Chauffeur]]></title>
-            <description><![CDATA[<article><h1>A day in the life - Security Chauffeur</h1><h2>Friday</h2><p></p></article>]]></description>
-            <link>http://bluskills.co.uk/a-day-in-the-life-security-chauffeur/index.html</link>
-            <guid isPermaLink="false">563f1f6e-cdff-41c0-8583-77802ddd58f2</guid>
-            <pubDate>Thu, 07 Jul 2016 13:30:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '6A Harrogate Road, Ripon, North Yorkshire, HG4 1SR'
-datePublished: '2016-07-07T13:19:48.074Z'
-dateModified: '2016-07-07T13:19:42.520Z'
+datePublished: '2016-07-11T11:58:01.295Z'
+dateModified: '2016-07-11T11:54:31.932Z'
 title: Contact Us
 author:
   - name: ''

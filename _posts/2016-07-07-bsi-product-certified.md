@@ -9,21 +9,21 @@ description: >-
   Protection services. The bsi kitemark is a symbol of our commitment to
   excellence and to delivering the highest standards of service to our
   customers.
-datePublished: '2016-07-07T13:34:49.806Z'
-dateModified: '2016-07-07T12:45:47.941Z'
+datePublished: '2016-07-11T11:59:24.071Z'
+dateModified: '2016-07-11T11:59:18.753Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-07-07-bsi-product-certified.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-07-bsi-product-certified.md
 url: bsi-product-certified/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c4dba45-a47e-4364-a1cd-720fcde94223.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/841ddc26-2308-456a-827c-1b0d85e9e510.png)
 
 BluSkills are holders of product certification in the delivery of Close Protection services. The bsi kitemark is a symbol of our commitment to excellence and to delivering the highest standards of service to our customers.
 

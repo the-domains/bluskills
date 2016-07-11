@@ -8,8 +8,8 @@ description: >-
   Trained - Our operators have undergone medical training. This ranges from
   first person on the scene to more advanced levels of life support and patient
   care
-datePublished: '2016-07-07T13:37:41.498Z'
-dateModified: '2016-07-07T13:17:52.488Z'
+datePublished: '2016-07-11T12:22:48.229Z'
+dateModified: '2016-07-11T12:22:42.325Z'
 title: ''
 author:
   - name: ''

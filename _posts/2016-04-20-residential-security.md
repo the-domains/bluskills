@@ -10,8 +10,8 @@ description: >-
   threats and vulnerabilities to your family, staff, property and assets. We
   then produce detailed reports and offer guidance focussed on procedural
   measures which can be complemented with technical security measures.
-datePublished: '2016-07-07T13:40:00.577Z'
-dateModified: '2016-07-07T13:17:05.150Z'
+datePublished: '2016-07-11T12:39:27.375Z'
+dateModified: '2016-07-11T12:39:06.827Z'
 title: Residential Security
 author: []
 sourcePath: _posts/2016-04-20-residential-security.md

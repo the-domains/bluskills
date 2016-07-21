@@ -1,14 +1,15 @@
 ---
-datePublished: '2016-07-12T12:31:03.231Z'
+datePublished: '2016-07-21T21:00:34.232Z'
 sourcePath: _posts/2016-04-14-should-the-worst-happen.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-12T12:26:47.649Z'
+via: {}
+dateModified: '2016-07-21T21:00:33.552Z'
 title: BluSkills Operators - Trained for emergencies
-publisher: null
+publisher: {}
 description: >-
   In a recent emergency situation the operator had already documented the
   nearest hospital so I was in A&E within minutes

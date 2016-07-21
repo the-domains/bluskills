@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-12T12:33:43.694Z'
+datePublished: '2016-07-21T21:07:37.902Z'
 sourcePath: _posts/2016-04-20-residential-security.md
 inFeed: true
 authors: []
@@ -8,9 +8,9 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-12T12:17:38.012Z'
+dateModified: '2016-07-21T21:07:37.321Z'
 title: Residential Security
-publisher: null
+publisher: {}
 description: >-
   BluSkills deliver residential and commercial security risk assessments and
   guidance. We assess your current security situation, identifying potential
@@ -19,6 +19,7 @@ description: >-
   measures which can be complemented with technical security measures.
 inLanguage: null
 inNav: false
+via: {}
 starred: false
 url: residential-security/index.html
 _type: Article

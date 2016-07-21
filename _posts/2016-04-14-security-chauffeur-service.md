@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-12T12:36:34.065Z'
+datePublished: '2016-07-21T21:15:34.740Z'
 sourcePath: _posts/2016-04-14-security-chauffeur-service.md
 inFeed: true
 authors: []
@@ -8,9 +8,10 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-12T12:36:28.909Z'
+via: {}
+dateModified: '2016-07-21T21:15:34.349Z'
 title: Security Chauffeur Service
-publisher: null
+publisher: {}
 description: >-
   BluSkills specialise in delivering security chauffeur services to individuals
   and organisations on a full time basis and reduced commitment. We operate your
@@ -31,3 +32,7 @@ BluSkills specialise in delivering security chauffeur services to individuals an
 We can manage your vehicle fleet. We keep detailed records of the vehicles condition and mileages for claims. We will alert you when servicing or tax is due and keep your vehicles clean.
 
 BluSkills constantly assess any risk you may face. We are able to adapt our service at short notice to any change in threat level or circumstance. Whether this is additional security chauffeurs our Close Protection service or Residential Security guidance, we remain flexible for you.
+
+### For an insight in to our what our operators do for you, read our ["A day in the life of a Security Chauffeur" blog][0]
+
+[0]: http://bluskills.co.uk/a-day-in-the-life-security-chauffeur/ "A Day In The Life"

@@ -4,7 +4,7 @@
         <description><![CDATA[BluSkills Security & Security Chauffeur]]></description>
         <link>http://bluskills.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 20:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 20:54:40 GMT</lastBuildDate>
         <atom:link href="http://bluskills.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BluSkills your 360° security solution]]></title>
@@ -12,6 +12,13 @@
             <link>http://bluskills.co.uk/7b943f53-c49e-4f5f-8d36-f05c0901fa06/index.html</link>
             <guid isPermaLink="false">7b943f53-c49e-4f5f-8d36-f05c0901fa06</guid>
             <pubDate>Tue, 12 Jul 2016 12:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Read our Blog]]></title>
+            <description><![CDATA[<article><h1>Read our Blog</h1><h2>A day in the life of a Security Chauffeur</h2></article>]]></description>
+            <link>http://bluskills.co.uk/a-day-in-the-life-security-chauffeur/index.html</link>
+            <guid isPermaLink="false">563f1f6e-cdff-41c0-8583-77802ddd58f2</guid>
+            <pubDate>Thu, 21 Jul 2016 20:54:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact Us]]></title>
@@ -68,13 +75,6 @@
             <link>http://eepurl.com/_deXn</link>
             <guid isPermaLink="false">e89df32c-0665-4268-92cd-a3d66d232c9d</guid>
             <pubDate>Tue, 12 Jul 2016 12:25:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A day in the life - Security Chauffeur]]></title>
-            <description><![CDATA[<article><h1>A day in the life - Security Chauffeur</h1><h2>Friday</h2><p>Planning</p></article>]]></description>
-            <link>http://bluskills.co.uk/a-day-in-the-life-security-chauffeur/index.html</link>
-            <guid isPermaLink="false">563f1f6e-cdff-41c0-8583-77802ddd58f2</guid>
-            <pubDate>Tue, 12 Jul 2016 12:20:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

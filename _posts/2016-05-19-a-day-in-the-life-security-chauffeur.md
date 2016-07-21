@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-07-12T12:20:55.679Z'
+datePublished: '2016-07-21T20:54:38.323Z'
 sourcePath: _posts/2016-05-19-a-day-in-the-life-security-chauffeur.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-12T12:19:29.369Z'
-title: A day in the life - Security Chauffeur
-publisher: null
-description: Planning
+via: {}
+dateModified: '2016-07-21T20:54:37.915Z'
+title: Read our Blog
+publisher: {}
+description: ''
 inLanguage: null
 inNav: false
 starred: false
@@ -17,13 +18,15 @@ url: a-day-in-the-life-security-chauffeur/index.html
 _type: Article
 
 ---
-# A day in the life - Security Chauffeur
+# Read our Blog
+
+## A day in the life of a Security Chauffeur
 
 ## Friday
 
 **Planning**
 
-The day actually started 2 days ago with the planning phase. This phase is equally as important as carrying out the task itself. It allows us to look at the venues and routes in detail so when we arrive we have either been there or feel as if we have. Also we plan our emergency procedure and locate emergency facilities along the routes and at the venues. This is a straight forward task and one which we do pretty often so the planning process is shorter this time. After the planning is done I check the medical equipment is present, in date and serviceable.
+The day actually started 2 days ago with the planning. This phase is equally as important as carrying out the task itself. It allows us to look at the venues and routes in detail so when we arrive we have either been there or feel as if we have. Also we plan our emergency procedure and locate emergency facilities along the routes and at the venues. This is a straight forward task and one which we do pretty often so the planning process is shorter this time. After the planning is done I check the medical equipment is present, in date and serviceable.
 
 **09:00**
 

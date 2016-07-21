@@ -4,7 +4,7 @@
         <description><![CDATA[BluSkills Security & Security Chauffeur]]></description>
         <link>http://bluskills.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 20:54:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 20:56:16 GMT</lastBuildDate>
         <atom:link href="http://bluskills.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BluSkills your 360° security solution]]></title>
@@ -12,6 +12,13 @@
             <link>http://bluskills.co.uk/7b943f53-c49e-4f5f-8d36-f05c0901fa06/index.html</link>
             <guid isPermaLink="false">7b943f53-c49e-4f5f-8d36-f05c0901fa06</guid>
             <pubDate>Tue, 12 Jul 2016 12:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The BluSkills Newsletter]]></title>
+            <description><![CDATA[<article><h1>The BluSkills Newsletter</h1><p>Sign up here to receive updates from BluSkills, what we’ve been up to, what we think and exciting news. Just complete the simple form. Should you wish to leave just click the unsubscribe button at any time. Welcome on-board.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d4088d09c947f696fbfee46b232bac2fe49821f.jpg"></article>]]></description>
+            <link>http://eepurl.com/_deXn</link>
+            <guid isPermaLink="false">e89df32c-0665-4268-92cd-a3d66d232c9d</guid>
+            <pubDate>Thu, 21 Jul 2016 20:56:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Read our Blog]]></title>
@@ -68,13 +75,6 @@
             <link>http://bluskills.co.uk/bsi-product-certified/index.html</link>
             <guid isPermaLink="false">2d2811cf-fa0d-49da-b289-2362af497585</guid>
             <pubDate>Tue, 12 Jul 2016 12:28:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The BluSkills Newsletter]]></title>
-            <description><![CDATA[<article><h1>The BluSkills Newsletter</h1><p>Sign up here to receive updates from BluSkills, what we have been up to, what we think and exciting news. Just complete the simple form. Should you wish to leave just click the unsubscribe button at any time. Welcome on-board!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d4088d09c947f696fbfee46b232bac2fe49821f.jpg"></article>]]></description>
-            <link>http://eepurl.com/_deXn</link>
-            <guid isPermaLink="false">e89df32c-0665-4268-92cd-a3d66d232c9d</guid>
-            <pubDate>Tue, 12 Jul 2016 12:25:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,20 +1,4 @@
-name: BluSkills
-favicon: null
-layout_spectrum: 0.07943
 typography_spectrum: 0.78846
-title: 'BluSkills Security & Security Chauffeur'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-53811712-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,20 @@ color:
   lightness: 0
   saturation: 0.5
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.07943
+analytics:
+  google: UA-53811712-1
+  facebook: null
+  twitter: null
+name: BluSkills
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: BluSkills Security & Security Chauffeur
 purpose: []

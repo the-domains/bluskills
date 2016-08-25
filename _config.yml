@@ -25,7 +25,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: The Operators
+  - name: Our Operators
     id: 3f05abea-9541-488c-b9e5-2b80bf9fbe50
     type: content
   - name: Our Blog

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:48:23.565Z'
+datePublished: '2016-08-25T15:03:29.044Z'
 sourcePath: _posts/2016-04-14-security-chauffeur-service.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-25T14:48:21.814Z'
+dateModified: '2016-08-25T15:03:28.140Z'
 title: Security Chauffeur Service
 publisher: {}
 description: >-
@@ -33,6 +33,6 @@ We can manage your vehicle fleet. We keep detailed records of the vehicles condi
 
 BluSkills constantly assess any risk you may face. We are able to adapt our service at short notice to any change in threat level or circumstance. Whether this is additional security chauffeurs our Close Protection service or Residential Security guidance, we remain flexible for you.
 
-### For an insight in to our what our operators do for you, read our ["A day in the life of a Security Chauffeur" blog][0]
+### _For an insight in to our what our operators do for you, read our__["A day in the life of a Security Chauffeur" blog][0]_
 
 [0]: http://bluskills.co.uk/a-day-in-the-life-security-chauffeur/ "A Day In The Life"

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:47:05.576Z'
+datePublished: '2016-08-25T14:52:05.734Z'
 sourcePath: _posts/2016-04-15-contact-us.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T14:47:04.791Z'
+dateModified: '2016-08-25T14:52:04.991Z'
 title: Contact Us
 publisher: {}
 description: '6A Harrogate Road, Ripon, North Yorkshire, HG4 1SR'

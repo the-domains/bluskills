@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T13:53:20.371Z'
+datePublished: '2016-08-25T14:55:35.263Z'
 sourcePath: _posts/2016-07-07-bsi-product-certified.md
 inFeed: true
 authors: []
@@ -9,8 +9,8 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-25T13:53:19.478Z'
-title: ''
+dateModified: '2016-08-25T14:55:34.414Z'
+title: BSI Product Certification
 publisher: {}
 description: >-
   BluSkills are holders of product certification in the delivery of Close
@@ -24,6 +24,7 @@ url: bsi-product-certified/index.html
 _type: Article
 
 ---
+# BSI Product Certification
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/176f0fd4-40f2-4692-aeea-fa972a7cfdf3.jpg)
 
 BluSkills are holders of product certification in the delivery of Close Protection services. The bsi kitemark is a symbol of our commitment to excellence and to delivering the highest standards of service to our customers.

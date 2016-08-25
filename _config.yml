@@ -1,3 +1,16 @@
+layout_spectrum: 0.17194286361336708
+typography_spectrum: 0.773118351586163
+color:
+  saturation: 0.5163334221579134
+  brandStrength: 0.41690734145231545
+  rhythmicContrast: 0.6302563815843314
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  lightness: 0.9311372472438961
 title: BluSkills Security & Security Chauffeur
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
       format: rss
       number: 10
 description: Your 360° Security Solution
-color:
-  saturation: 0.5
-  brandStrength: 0.75
-  rhythmicContrast: 1
-  brandColors:
-    - '#ffffff'
-    - '#1f1f21'
-    - '#c0ced7'
-    - '#99a5b1'
-    - '#6a6d7e'
-  lightness: 0
 cta:
   bucket: null
   version: null
@@ -46,5 +48,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.781362
-layout_spectrum: 0.07943

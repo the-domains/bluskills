@@ -28,6 +28,9 @@ navigation:
   - name: Contact Us
     id: cc2a9239-b0fa-41ed-995e-20d1cc29677d
     type: content
+  - name: Our Blog
+    id: 563f1f6e-cdff-41c0-8583-77802ddd58f2
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e85f228-11a0-4a78-8ba3-b995126c8e58.png
 title: BluSkills Security & Security Chauffeur

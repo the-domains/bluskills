@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-21T20:59:06.764Z'
+datePublished: '2016-08-25T13:56:59.638Z'
 sourcePath: _posts/2016-04-22-bluskills-operators.md
 inFeed: true
 authors: []
@@ -8,7 +8,8 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-21T20:59:06.378Z'
+via: {}
+dateModified: '2016-08-25T13:56:59.051Z'
 title: UK executives to High Risk individuals overseas
 publisher: {}
 description: >-
@@ -17,7 +18,6 @@ description: >-
   threat environments overseas protecting high risk individuals.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: bluskills-operators/index.html
 _type: Article

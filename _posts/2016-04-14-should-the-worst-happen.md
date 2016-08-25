@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-21T21:00:34.232Z'
+datePublished: '2016-08-25T14:00:22.214Z'
 sourcePath: _posts/2016-04-14-should-the-worst-happen.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-21T21:00:33.552Z'
+dateModified: '2016-08-25T14:00:21.788Z'
 title: BluSkills Operators - Trained for emergencies
 publisher: {}
 description: >-

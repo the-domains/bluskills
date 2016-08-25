@@ -4,7 +4,7 @@
         <description><![CDATA[BluSkills Security & Security Chauffeur]]></description>
         <link>http://bluskills.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 14:52:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 14:55:37 GMT</lastBuildDate>
         <atom:link href="http://bluskills.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BluSkills your 360° security solution]]></title>
@@ -12,6 +12,13 @@
             <link>http://bluskills.co.uk/7b943f53-c49e-4f5f-8d36-f05c0901fa06/index.html</link>
             <guid isPermaLink="false">7b943f53-c49e-4f5f-8d36-f05c0901fa06</guid>
             <pubDate>Thu, 25 Aug 2016 14:08:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BSI Product Certification]]></title>
+            <description><![CDATA[<article><h1>BSI Product Certification</h1><p>BluSkills are holders of product certification in the delivery of Close Protection services. The bsi kitemark is a symbol of our commitment to excellence and to delivering the highest standards of service to our customers.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/176f0fd4-40f2-4692-aeea-fa972a7cfdf3.jpg"></article>]]></description>
+            <link>http://bluskills.co.uk/bsi-product-certified/index.html</link>
+            <guid isPermaLink="false">2d2811cf-fa0d-49da-b289-2362af497585</guid>
+            <pubDate>Thu, 25 Aug 2016 14:55:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact Us]]></title>
@@ -68,13 +75,6 @@
             <link>http://bluskills.co.uk/bluskills-operators-trained-for-emergencies/index.html</link>
             <guid isPermaLink="false">4b2623cc-4036-4348-8160-18e623bfcb10</guid>
             <pubDate>Thu, 25 Aug 2016 14:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bsi product certified]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/176f0fd4-40f2-4692-aeea-fa972a7cfdf3.jpg">]]></description>
-            <link>http://bluskills.co.uk/bsi-product-certified/index.html</link>
-            <guid isPermaLink="false">2d2811cf-fa0d-49da-b289-2362af497585</guid>
-            <pubDate>Thu, 25 Aug 2016 13:53:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

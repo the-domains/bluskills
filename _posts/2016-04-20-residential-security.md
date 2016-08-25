@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:04:56.265Z'
+datePublished: '2016-08-25T14:48:11.130Z'
 sourcePath: _posts/2016-04-20-residential-security.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-25T14:04:55.661Z'
+dateModified: '2016-08-25T14:48:10.365Z'
 title: Residential Security
 publisher: {}
 description: >-
@@ -20,7 +20,7 @@ description: >-
   measures which can be complemented with technical security measures.
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 url: residential-security/index.html
 _type: Article
 

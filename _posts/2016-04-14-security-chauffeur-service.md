@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:05:41.463Z'
+datePublished: '2016-08-25T14:48:23.565Z'
 sourcePath: _posts/2016-04-14-security-chauffeur-service.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-25T14:05:40.871Z'
+dateModified: '2016-08-25T14:48:21.814Z'
 title: Security Chauffeur Service
 publisher: {}
 description: >-
@@ -19,7 +19,7 @@ description: >-
   service. We can supply vehicles on request.
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 url: security-chauffeur-service/index.html
 _type: Article
 

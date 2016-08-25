@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-21T20:57:13.926Z'
+datePublished: '2016-08-25T13:53:20.371Z'
 sourcePath: _posts/2016-07-07-bsi-product-certified.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-07-21T20:57:13.501Z'
+dateModified: '2016-08-25T13:53:19.478Z'
 title: ''
 publisher: {}
 description: >-

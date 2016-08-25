@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:48:00.486Z'
+datePublished: '2016-08-25T14:48:02.829Z'
 sourcePath: >-
   _posts/2016-04-18-bluskills-are-product-certified-by-british-standards-in-the.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-25T14:47:59.385Z'
+dateModified: '2016-08-25T14:48:02.310Z'
 title: Close Protection Services
 publisher: {}
 description: >-

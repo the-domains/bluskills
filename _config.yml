@@ -19,8 +19,7 @@ analytics:
   twitter: null
   google: UA-53811712-1
   facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/572e3ec9-6308-4cee-9fa5-bf42efd0cfd4.png
+logo: null
 name: BluSkills
 cta:
   bucket: null

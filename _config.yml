@@ -25,6 +25,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Privacy Policy
+    id: c41a8880-e914-4abb-8e7d-e284b5ef45fb
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e85f228-11a0-4a78-8ba3-b995126c8e58.png
 collections:

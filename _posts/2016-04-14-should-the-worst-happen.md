@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:58:00.294Z'
+datePublished: '2016-08-31T08:49:49.781Z'
 sourcePath: _posts/2016-04-14-should-the-worst-happen.md
 inFeed: true
 authors: []
@@ -7,12 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T14:57:59.549Z'
+dateModified: '2016-08-31T08:49:49.292Z'
 title: BluSkills Operators - Trained for emergencies
 publisher: {}
-description: >-
-  In a recent emergency situation the operator had already documented the
-  nearest hospital so I was in A&E within minutes
+description: ''
 inLanguage: null
 inNav: false
 starred: false
@@ -26,7 +24,7 @@ _type: Article
 
 ## Should the worst happen
 
-> In a recent emergency situation the operator had already documented the nearest hospital so I was in A&E within minutes
+# "In a recent emergency situation the operator had already documented the nearest hospital so I was in A&E within minutes"
 
 Trained - Our operators have undergone medical training. This ranges from first person on the scene to more advanced levels of life support and patient care
 

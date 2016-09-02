@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:59:15.653Z'
+datePublished: '2016-08-31T09:30:30.468Z'
 sourcePath: _posts/2016-04-20-residential-security.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-25T14:59:15.164Z'
+dateModified: '2016-08-31T09:30:29.987Z'
 title: Residential Security
 publisher: {}
 description: >-

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:51:01.203Z'
+datePublished: '2016-08-31T08:47:29.642Z'
 sourcePath: _posts/2016-04-30-sign-up-here.md
 inFeed: true
 isBasedOnUrl: 'http://eepurl.com/_deXn'
@@ -10,13 +10,10 @@ author:
   - name: ''
     url: 'http://eepurl.com/_deXn'
 via: {}
-dateModified: '2016-08-25T14:50:59.944Z'
+dateModified: '2016-08-31T08:47:29.155Z'
 title: The BluSkills Newsletter
 publisher: {}
-description: >-
-  Sign up here to receive updates from BluSkills, what we’ve been up to, what we
-  think and exciting news. Just complete the simple form. Should you wish to
-  leave just click the unsubscribe button at any time. Welcome on-board.
+description: ''
 inLanguage: null
 inNav: false
 starred: false

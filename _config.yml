@@ -1,19 +1,39 @@
-name: BluSkills
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e85f228-11a0-4a78-8ba3-b995126c8e58.png
-layout_spectrum: 0.09933
 typography_spectrum: 0.8606
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.11740012932568789
+  lightness: 0.6970909971278161
+  saturation: 0.43011553306132555
+  rhythmicContrast: 0.16065946593880653
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.09933
+analytics:
+  google: UA-53811712-1
+  facebook: null
+  twitter: null
 logo: null
+name: BluSkills
+cta:
+  domain: null
+  bucket: null
+  version: null
 navigation:
-  - name: Our Operators
-    id: 3f05abea-9541-488c-b9e5-2b80bf9fbe50
-    type: content
   - name: Our Blog
     id: 563f1f6e-cdff-41c0-8583-77802ddd58f2
     type: content
   - name: Contact Us
     id: cc2a9239-b0fa-41ed-995e-20d1cc29677d
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e85f228-11a0-4a78-8ba3-b995126c8e58.png
 collections:
   - index:
       path: /
@@ -28,27 +48,4 @@ collections:
       number: 10
 title: BluSkills Security & Security Chauffeur
 description: Your 360° Security Solution
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-53811712-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.11740012932568789
-  lightness: 0.6970909971278161
-  saturation: 0.43011553306132555
-  rhythmicContrast: 0.16065946593880653
 purpose: []

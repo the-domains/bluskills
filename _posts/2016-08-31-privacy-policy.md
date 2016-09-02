@@ -1,28 +1,26 @@
 ---
-datePublished: '2016-08-31T08:35:41.320Z'
+datePublished: '2016-08-31T08:37:38.052Z'
 sourcePath: _posts/2016-08-31-privacy-policy.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T08:35:40.835Z'
+dateModified: '2016-08-31T08:37:37.601Z'
 title: Privacy Policy
 publisher: {}
 description: >-
-  Welcome to the BluSkills Website. Our sites content is updated and managed by
-  BluSkills Ltd and hosted by a third party provider - The Grid. Our website is
-  here to give you information about our services, provide you with a means of
-  getting in touch with us and allows you to subscribe to regular updates.
+  Welcome to the BluSkills Website. This Privacy Policy is designed to give you
+  an understanding of what information or personal data we may collect on you,
+  how this will be stored and how it will be used.
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: privacy-policy/index.html
+_type: Blurb
 
 ---
 ### Privacy Policy
 
-Welcome to the BluSkills Website. Our sites content is updated and managed by BluSkills Ltd and hosted by a third party provider - [The Grid][0]. Our website is here to give you information about our services, provide you with a means of getting in touch with us and allows you to subscribe to regular updates.
+Welcome to the BluSkills Website. This Privacy Policy is designed to give you an understanding of what information or personal data we may collect on you, how this will be stored and how it will be used.
 
-This Privacy Policy is designed to give you an understanding of what information or personal data we may collect on you, how this will be stored and how it will be used.
+Our sites content is updated and managed by BluSkills Ltd and hosted by a third party provider - [The Grid][0]. Our website is here to give you information about our services, provide you with a means of getting in touch with us and allows you to subscribe to regular updates.
 
 ### Cookies
 

@@ -4,8 +4,15 @@
         <description><![CDATA[BluSkills Security & Security Chauffeur]]></description>
         <link>http://bluskills.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 09:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 09:24:45 GMT</lastBuildDate>
         <atom:link href="http://bluskills.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Read our Blog]]></title>
+            <description><![CDATA[<article><h1>Read our Blog</h1><h2>A day in the life of a Security Chauffeur</h2></article>]]></description>
+            <link>http://bluskills.co.uk/a-day-in-the-life-security-chauffeur/index.html</link>
+            <guid isPermaLink="false">563f1f6e-cdff-41c0-8583-77802ddd58f2</guid>
+            <pubDate>Wed, 31 Aug 2016 09:24:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The BluSkills Newsletter]]></title>
             <description><![CDATA[<article><h1>The BluSkills Newsletter</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d4088d09c947f696fbfee46b232bac2fe49821f.jpg"></article>]]></description>
@@ -61,13 +68,6 @@
             <link>http://bluskills.co.uk/bsi-product-certified/index.html</link>
             <guid isPermaLink="false">2d2811cf-fa0d-49da-b289-2362af497585</guid>
             <pubDate>Thu, 25 Aug 2016 14:55:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Read our Blog]]></title>
-            <description><![CDATA[<article><h1>Read our Blog</h1><h2>A day in the life of a Security Chauffeur</h2></article>]]></description>
-            <link>http://bluskills.co.uk/a-day-in-the-life-security-chauffeur/index.html</link>
-            <guid isPermaLink="false">563f1f6e-cdff-41c0-8583-77802ddd58f2</guid>
-            <pubDate>Thu, 25 Aug 2016 14:51:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

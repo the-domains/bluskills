@@ -1,4 +1,3 @@
-layout_spectrum: 0.28170777624472976
 typography_spectrum: 0.204229996772483
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.28170777624472976
 analytics:
   google: UA-53811712-1
   facebook: null
@@ -39,6 +39,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: BluSkills Security & Security Chauffeur
+title: ''
 description: Your 360° Security Solution
 purpose: []

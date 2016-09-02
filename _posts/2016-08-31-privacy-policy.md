@@ -1,17 +1,17 @@
 ---
+datePublished: '2016-08-31T08:33:37.988Z'
+sourcePath: _posts/2016-08-31-privacy-policy.md
+author: []
+via: {}
+dateModified: '2016-08-31T08:33:37.493Z'
+title: Privacy Policy
+publisher: {}
 description: >-
   Welcome to the BluSkills Website. The sites content is updated and managed by
   BluSkills Ltd and hosted by a third party provider - The Grid. Our website is
   here to give you information about our services, provide you with a means of
   getting in touch with us and allows you to subscribe to regular updates.
-dateModified: '2016-08-31T08:31:14.832Z'
-datePublished: '2016-08-31T08:31:22.009Z'
-title: Privacy Policy
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-31-privacy-policy.md
 inFeed: true
 hasPage: false
 inNav: false

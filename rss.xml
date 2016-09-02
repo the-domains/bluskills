@@ -4,8 +4,15 @@
         <description><![CDATA[BluSkills Security & Security Chauffeur]]></description>
         <link>http://bluskills.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 08:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 08:50:14 GMT</lastBuildDate>
         <atom:link href="http://bluskills.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The BluSkills Newsletter]]></title>
+            <description><![CDATA[<article><h1>The BluSkills Newsletter</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d4088d09c947f696fbfee46b232bac2fe49821f.jpg"></article>]]></description>
+            <link>http://eepurl.com/_deXn</link>
+            <guid isPermaLink="false">e89df32c-0665-4268-92cd-a3d66d232c9d</guid>
+            <pubDate>Wed, 31 Aug 2016 08:47:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UK executives to High Risk individuals overseas]]></title>
             <description><![CDATA[<article><h1>UK executives to High Risk individuals overseas</h1><p>BluSkills operators are both highly trained and experienced. They have employed their skills in UK towns and cities for executives, through to high threat environments overseas protecting high risk individuals.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e059a6c9-45f6-40ca-91be-bbbe0b41c7e0.jpg"></article>]]></description>
@@ -61,13 +68,6 @@
             <link>http://bluskills.co.uk/a-day-in-the-life-security-chauffeur/index.html</link>
             <guid isPermaLink="false">563f1f6e-cdff-41c0-8583-77802ddd58f2</guid>
             <pubDate>Thu, 25 Aug 2016 14:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The BluSkills Newsletter]]></title>
-            <description><![CDATA[<article><h1>The BluSkills Newsletter</h1><p>Sign up here to receive updates from BluSkills, what we’ve been up to, what we think and exciting news. Just complete the simple form. Should you wish to leave just click the unsubscribe button at any time. Welcome on-board.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d4088d09c947f696fbfee46b232bac2fe49821f.jpg"></article>]]></description>
-            <link>http://eepurl.com/_deXn</link>
-            <guid isPermaLink="false">e89df32c-0665-4268-92cd-a3d66d232c9d</guid>
-            <pubDate>Thu, 25 Aug 2016 14:51:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

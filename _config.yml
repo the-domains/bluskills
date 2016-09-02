@@ -26,9 +26,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Our Blog
-    id: 563f1f6e-cdff-41c0-8583-77802ddd58f2
-    type: content
   - name: Contact Us
     id: cc2a9239-b0fa-41ed-995e-20d1cc29677d
     type: content

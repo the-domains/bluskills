@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T08:53:02.643Z'
+datePublished: '2016-08-31T09:24:02.168Z'
 sourcePath: _posts/2016-04-30-sign-up-here.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: 'http://eepurl.com/_deXn'
 via: {}
-dateModified: '2016-08-31T08:53:02.120Z'
+dateModified: '2016-08-31T09:24:01.794Z'
 title: The BluSkills Newsletter
 publisher: {}
 description: ''

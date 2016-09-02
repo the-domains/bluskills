@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T15:01:14.101Z'
+datePublished: '2016-08-31T09:32:05.542Z'
 sourcePath: >-
   _posts/2016-04-18-bluskills-are-product-certified-by-british-standards-in-the.md
 inFeed: true
@@ -10,8 +10,8 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-25T15:01:12.504Z'
-title: Close Protection Services
+dateModified: '2016-08-31T09:32:04.890Z'
+title: Close Protection
 publisher: {}
 description: >-
   BluSkills provide Close Protection services for those who require a more
@@ -25,7 +25,7 @@ url: close-protection-services/index.html
 _type: Article
 
 ---
-# Close Protection Services
+# Close Protection
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/467bf4e919cc6c3f6ce77a8dc9001c6c63a1683c.jpg)
 
 BluSkills provide Close Protection services for those who require a more comprehensive security arrangement than our Security Chauffeur service alone. We deliver long term or reduced commitment contracts that ensure you can carry out your life in safety and with complete peace of mind.

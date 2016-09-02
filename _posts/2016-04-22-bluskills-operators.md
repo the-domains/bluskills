@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T08:46:30.123Z'
+datePublished: '2016-08-31T09:28:15.410Z'
 sourcePath: _posts/2016-04-22-bluskills-operators.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-31T08:46:29.581Z'
+dateModified: '2016-08-31T09:28:02.308Z'
 title: UK executives to High Risk individuals overseas
 publisher: {}
 description: >-

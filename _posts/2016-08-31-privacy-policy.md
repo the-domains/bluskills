@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-31T09:22:07.193Z'
+datePublished: '2016-08-31T09:42:43.062Z'
 sourcePath: _posts/2016-08-31-privacy-policy.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T09:22:06.679Z'
+dateModified: '2016-08-31T09:42:42.523Z'
 title: Privacy Policy
 publisher: {}
 description: >-

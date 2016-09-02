@@ -1,23 +1,23 @@
 ---
-datePublished: '2016-08-31T08:52:03.052Z'
+datePublished: '2016-08-31T08:53:02.643Z'
 sourcePath: _posts/2016-04-30-sign-up-here.md
 inFeed: true
-isBasedOnUrl: 'http://eepurl.com/_deXn'
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 author:
   - name: ''
     url: 'http://eepurl.com/_deXn'
 via: {}
-dateModified: '2016-08-31T08:52:02.321Z'
+dateModified: '2016-08-31T08:53:02.120Z'
 title: The BluSkills Newsletter
 publisher: {}
 description: ''
 inLanguage: null
 inNav: false
 starred: false
-_type: MediaObject
+url: the-bluskills-newsletter/index.html
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d4088d09c947f696fbfee46b232bac2fe49821f.jpg)
